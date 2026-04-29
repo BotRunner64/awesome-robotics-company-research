@@ -6,8 +6,8 @@ Use short entries first. Add deeper notes only when they are useful.
 
 ## Company Index
 
-- Physical Intelligence, [website](https://www.pi.website/), bringing general-purpose AI into the physical world.
-- Sharpa, [website](https://www.sharpa.com/), building ultra-high performance robots and core components.
+- [Physical Intelligence](#physical-intelligence), bringing general-purpose AI into the physical world, [website](https://www.pi.website/).
+- [Sharpa](#sharpa), building ultra-high performance robots and core components, [website](https://www.sharpa.com/).
 
 ---
 

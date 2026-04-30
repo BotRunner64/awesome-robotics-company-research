@@ -6,10 +6,22 @@ Use short entries first. Add deeper notes only when they are useful.
 
 ## Company Index
 
+- [Figure](#figure), building general-purpose humanoid robots for home and workforce applications, [website](https://www.figure.ai/).
 - [Physical Intelligence](#physical-intelligence), bringing general-purpose AI into the physical world, [website](https://www.pi.website/).
 - [Sharpa](#sharpa), building ultra-high performance robots and core components, [website](https://www.sharpa.com/).
 
 ---
+
+## Figure
+
+- 2026.01, Introducing Helix 02: Full-Body Autonomy, [website](https://www.figure.ai/news/helix-02)
+- 2025.10, Introducing Figure 03, [website](https://www.figure.ai/news/introducing-figure-03)
+- 2025.09, Project Go-Big: Internet-Scale Humanoid Pretraining and Direct Human-to-Robot Transfer, [website](https://www.figure.ai/news/project-go-big)
+- 2025.07, F.03 Battery Development, [website](https://www.figure.ai/news/f-03-battery-development)
+- 2025.06, Scaling Helix: a New State of the Art in Humanoid Logistics, [website](https://www.figure.ai/news/scaling-helix-logistics)
+- 2025.03, Natural Humanoid Walk Using Reinforcement Learning, [website](https://www.figure.ai/news/reinforcement-learning-walking)
+- 2025.02, Helix Accelerating Real-World Logistics, [website](https://www.figure.ai/news/helix-logistics)
+- 2025.02, Helix: A Vision-Language-Action Model for Generalist Humanoid Control, [website](https://www.figure.ai/news/helix)
 
 ## Physical Intelligence
 

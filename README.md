@@ -6,11 +6,19 @@ Use short entries first. Add deeper notes only when they are useful.
 
 ## Company Index
 
+- [AgiBot](#agibot), building and deploying general-purpose embodied AI systems, [website](https://finch.agibot.com/).
 - [Figure](#figure), building general-purpose humanoid robots for home and workforce applications, [website](https://www.figure.ai/).
 - [Physical Intelligence](#physical-intelligence), bringing general-purpose AI into the physical world, [website](https://www.pi.website/).
 - [Sharpa](#sharpa), building ultra-high performance robots and core components, [website](https://www.sharpa.com/).
 
 ---
+
+## AgiBot
+
+- 2026.04, Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies, [website](https://finch.agibot.com/research/lwd)
+- 2026.01, SOP: Scaling General-Purpose Robots in the Real World, [website](https://finch.agibot.com/research/sop)
+- 2026.01, Act2Goal: From World Model to General Goal-Conditioned Policy, [website](https://finch.agibot.com/research/act-2-goal)
+- 2026.01, Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training, [website](https://finch.agibot.com/research/uni-fact)
 
 ## Figure
 

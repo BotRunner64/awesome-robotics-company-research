@@ -19,6 +19,8 @@ company research links.
 
 - Keep entries short and source-backed.
 - Prefer official company, research, blog, or product pages as sources.
+- Keep companies in alphabetical order in both the company index and company
+  sections.
 - Company index entries should use this form:
 
   ```markdown

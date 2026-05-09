@@ -23,6 +23,9 @@ Company index entries should use this format:
 - [Company](#company-anchor), short description, [website](https://example.com).
 ```
 
+Keep companies in alphabetical order in both the company index and company
+sections.
+
 Company section entries should use this format when a month is available:
 
 ```markdown

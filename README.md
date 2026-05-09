@@ -7,6 +7,7 @@ Use short entries first. Add deeper notes only when they are useful.
 ## Company Index
 
 - [AgiBot](#agibot), building and deploying general-purpose embodied AI systems, [website](https://finch.agibot.com/).
+- [BeingBeyond](#beingbeyond), building general-purpose foundational models for robots from large-scale human data, [website](https://beingbeyond.com/en/).
 - [Figure](#figure), building general-purpose humanoid robots for home and workforce applications, [website](https://www.figure.ai/).
 - [Physical Intelligence](#physical-intelligence), bringing general-purpose AI into the physical world, [website](https://www.pi.website/).
 - [Sharpa](#sharpa), building ultra-high performance robots and core components, [website](https://www.sharpa.com/).
@@ -19,6 +20,24 @@ Use short entries first. Add deeper notes only when they are useful.
 - 2026.01, SOP: Scaling General-Purpose Robots in the Real World, [website](https://finch.agibot.com/research/sop)
 - 2026.01, Act2Goal: From World Model to General Goal-Conditioned Policy, [website](https://finch.agibot.com/research/act-2-goal)
 - 2026.01, Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training, [website](https://finch.agibot.com/research/uni-fact)
+
+## BeingBeyond
+
+- 2026.04, Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models, [website](https://research.beingbeyond.com/better)
+- 2026.04, Being-H0.7: A Latent World-Action Model from Egocentric Videos, [website](https://research.beingbeyond.com/being-h07)
+- 2026.03, OpenT2M: No-frill Motion Generation with Open-source, Large-scale, High-quality Data, [website](https://research.beingbeyond.com/opent2m)
+- 2026.02, Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild, [website](https://research.beingbeyond.com/jala)
+- 2026.02, General Humanoid Whole-Body Control via Pretraining and Fast Adaptation, [website](https://research.beingbeyond.com/fast)
+- 2026.02, Rethinking Visual-Language-Action Model Scaling: Alignment, Mixture, and Regularization, [website](https://research.beingbeyond.com/rethink_vla)
+- 2026.01, Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization, [website](https://research.beingbeyond.com/being-h05)
+- 2025.12, DemoFunGrasp: Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning, [website](https://research.beingbeyond.com/demofungrasp)
+- 2025.12, Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos, [website](https://research.beingbeyond.com/vipa-vla)
+- 2025.12, DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models, [website](https://research.beingbeyond.com/dig-flow)
+- 2025.10, DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation, [website](https://research.beingbeyond.com/demohlm)
+- 2025.08, Being-M0.5: A Real-Time Controllable Vision-Language-Motion Model, [website](https://research.beingbeyond.com/being-m05)
+- 2025.07, Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos, [website](https://research.beingbeyond.com/being-h0)
+- 2025.06, Being-VL-0.5: Unified Multimodal Understanding via Byte-Pair Visual Encoding, [website](https://research.beingbeyond.com/being-vl05)
+- 2024.10, Being-VL-0: From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities, [website](https://research.beingbeyond.com/being-vl0)
 
 ## Figure
 

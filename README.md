@@ -9,6 +9,7 @@ Use short entries first. Add deeper notes only when they are useful.
 - [AgiBot](#agibot), building and deploying general-purpose embodied AI systems, [website](https://finch.agibot.com/).
 - [BeingBeyond](#beingbeyond), building general-purpose foundational models for robots from large-scale human data, [website](https://beingbeyond.com/en/).
 - [Figure](#figure), building general-purpose humanoid robots for home and workforce applications, [website](https://www.figure.ai/).
+- [Generalist](#generalist), building general intelligence for the physical world, [website](https://generalistai.com/).
 - [Physical Intelligence](#physical-intelligence), bringing general-purpose AI into the physical world, [website](https://www.pi.website/).
 - [Sharpa](#sharpa), building ultra-high performance robots and core components, [website](https://www.sharpa.com/).
 
@@ -49,6 +50,19 @@ Use short entries first. Add deeper notes only when they are useful.
 - 2025.03, Natural Humanoid Walk Using Reinforcement Learning, [website](https://www.figure.ai/news/reinforcement-learning-walking)
 - 2025.02, Helix Accelerating Real-World Logistics, [website](https://www.figure.ai/news/helix-logistics)
 - 2025.02, Helix: A Vision-Language-Action Model for Generalist Humanoid Control, [website](https://www.figure.ai/news/helix)
+
+## Generalist
+
+- 2026.08, GEN-1.5: Embodied Foundation Models are One-Shot Learners, [website](https://generalistai.com/blog/gen-1.5)
+- 2026.07, Towards Machines with a Thousand Hands, [website](https://generalistai.com/blog/towards-machines-with-a-thousand-hands)
+- 2026.06, Accelerating the Next Phase of Physical AI, [website](https://generalistai.com/blog/accelerating-the-next-phase-of-physical-ai)
+- 2026.04, Going Beyond World Models & VLAs, [website](https://generalistai.com/blog/beyond-world-models)
+- 2026.04, GEN-1: Scaling Embodied Foundation Models to Mastery, [website](https://generalistai.com/blog/gen-1)
+- 2026.03, The Real Breakthrough Behind Our GTC Demo, [website](https://generalistai.com/blog/the-real-breakthrough-behind-our-gtc-demo)
+- 2026.01, The Dark Matter of Robotics: Physical Commonsense, [website](https://generalistai.com/blog/physical-commonsense)
+- 2025.11, GEN-0: Embodied Foundation Models That Scale with Physical Interaction, [website](https://generalistai.com/blog/gen-0)
+- 2025.09, The Robots Build Now, Too, [website](https://generalistai.com/blog/the-robots-build-now-too)
+- 2025.06, Research Preview, [website](https://generalistai.com/blog/research-preview)
 
 ## Physical Intelligence
 

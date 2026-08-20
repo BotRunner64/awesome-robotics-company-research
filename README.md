@@ -12,6 +12,7 @@ Use short entries first. Add deeper notes only when they are useful.
 - [Generalist](#generalist), building general intelligence for the physical world, [website](https://generalistai.com/).
 - [Physical Intelligence](#physical-intelligence), bringing general-purpose AI into the physical world, [website](https://www.pi.website/).
 - [Sharpa](#sharpa), building ultra-high performance robots and core components, [website](https://www.sharpa.com/).
+- [Sunday](#sunday), building helpful home robots that learn skills from human movement data, [website](https://www.sunday.ai/).
 
 ---
 
@@ -89,3 +90,8 @@ Use short entries first. Add deeper notes only when they are useful.
 - 2026.02, EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data, [website](https://www.sharpa.com/blogs/research/egoscale-20-000-hours-of-video-grow-a-robot-hand-opening-the-scaling-law-era-of-dexterous-manipulation)
 - 2026.02, SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation, [website](https://www.sharpa.com/blogs/research/moving-beyond-specialist-training-simtoolreal-enables-zero-shot-transfer-for-general-purpose-tool-use)
 - 2026.01, Spatially anchored Tactile Awareness for Robust Dexterous Manipulation, [website](https://www.sharpa.com/blogs/research/giving-robots-spatial-awareness-for-sub-millimeter-dexterous-manipulation)
+
+## Sunday
+
+- 2026.07, ACT-2 Preview: Generalizing Reliability, [website](https://www.sunday.ai/blog/act-2-preview)
+- 2025.11, ACT-1: A Robot Foundation Model Trained on Zero Robot Data, [website](https://www.sunday.ai/blog/no-robot-data)
